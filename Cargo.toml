@@ -1,0 +1,13 @@
+[package]
+name = "cai_cyclic"
+version = "0.1.0"
+authors = ["Mick Koch <mick@kochm.co>"]
+description = "Encoding and decoding of (17, 9, 5) cyclic code"
+license = "MIT"
+documentation = "https://docs.rs/cai_cyclic"
+repository = "https://github.com/kchmck/cai_cyclic.rs"
+keywords = ["ecc", "fec", "cyclic", "p25", "dmr"]
+
+[dependencies]
+
+binfield_matrix = "0.1.0"
