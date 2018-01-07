@@ -1,6 +1,6 @@
 [package]
 name = "cai_cyclic"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Mick Koch <mick@kochm.co>"]
 description = "Encoding and decoding of (17, 9, 5) cyclic code"
 license = "MIT"
