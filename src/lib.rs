@@ -22,7 +22,7 @@
 //!
 //! The decoding algorithm is based on the algorithm described in Lin and Costello's
 //! *Error Control Coding* (1983) and Roman's *Coding and Information Theory* (1992),
-//! p245.
+//! p345.
 
 extern crate binfield_matrix;
 
